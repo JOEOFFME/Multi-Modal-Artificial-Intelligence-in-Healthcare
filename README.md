@@ -12,7 +12,7 @@ A Computer Vision and Data-Driven Platform for Breast Cancer and Diabetes Diagno
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Contact-blue?style=flat&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/joel-offome/ ---
 
-## 🚀 About The Project
+##  About The Project
 
 This repository explores the application of artificial intelligence in healthcare, focusing on two critical areas: **breast cancer** and **diabetes**. It leverages a multi-modal approach by analyzing both imaging data (Computer Vision) and structured tabular data (Data-Driven) to build robust diagnostic and exploratory platforms.
 
