@@ -10,7 +10,7 @@ A Computer Vision and Data-Driven Platform for Breast Cancer and Diabetes Diagno
 [license-shield]: https://img.shields.io/github/license/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare?style=flat
 [license-url]: https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Contact-blue?style=flat&logo=linkedin
-[linkedin-url]: https://www.linkedin.com/in/joel-offome/ ---
+[linkedin-url]: https://www.linkedin.com/in/youssef-dihaji-8458b0310/overlay/about-this-profile/
 
 ##  About The Project
 
@@ -23,21 +23,21 @@ The project is divided into three main components:
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About The Project](#-about-the-project)
 - [Projects & Methodology](#-projects--methodology)
   - [1. Mammography (Computer Vision)](#1-mammography-computer-vision)
   - [2. WDBC Breast Cancer (Tabular ML)](#2-wdbc-breast-cancer-tabular-ml)
   - [3. PIMA Diabetes Prediction (Tabular ML)](#3-pima-diabetes-prediction-tabular-ml)
-- [🔧 Technology Stack](#-technology-stack)
-- [🏁 Getting Started](#-getting-started)
-- [📄 License](#-license)
-- [📧 Contact](#-contact)
+- [ Technology Stack](#-technology-stack)
+- [ Getting Started](#-getting-started)
+- [ License](#-license)
+- [ Contact](#-contact)
 
 ---
 
-## 🔬 Projects & Methodology
+## Projects & Methodology
 
 This repository contains three core projects, each detailed in its own Jupyter Notebook.
 
@@ -64,7 +64,7 @@ This repository contains three core projects, each detailed in its own Jupyter N
 
 ---
 
-## 🔧 Technology Stack
+##  Technology Stack
 
 This project is built using the following technologies:
 
@@ -79,7 +79,7 @@ This project is built using the following technologies:
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -113,12 +113,12 @@ Ensure you have Python 3.7+ and pip installed.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact
+## S Contact
 
 JOEOFFME - [LinkedIn](https://www.linkedin.com/in/joel-offome/) Project Link: [https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare](https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare)
