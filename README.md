@@ -47,7 +47,7 @@ This repository contains three core projects, each detailed in its own Jupyter N
 - **Files:** `Mammography_processing.ipynb`, `Mammography_CNN.ipynb`
 - **Goal:** To build and train a Convolutional Neural Network (CNN) to classify breast cancer from mammography images.
 - **`Mammography_processing.ipynb`:** This notebook covers all necessary preprocessing steps for the image data, such as resizing, normalization, artifact removal, and data augmentation, to prepare a clean and robust dataset for the model.
-- **`Mammography_CNN.ipynb`:** This notebook implements the CNN model architecture (e.g., using TensorFlow/Keras). It details the model building, training, and evaluation process, concluding with performance metrics like accuracy, precision, and recall.
+- **`Mammography_CNN.ipynb`:** This notebook implements the CNN model architecture (using PyTorch). It details the model building, training, using transfer learning, and evaluation process, concluding with performance metrics like accuracy, precision, and recall.
 
 ### 2. WDBC (Tabular ML)
 - **Files:** `WDBC FULL PROCESSING 30.ipynb`, `WDBC_Processed.csv`
@@ -56,7 +56,7 @@ This repository contains three core projects, each detailed in its own Jupyter N
     - Exploratory Data Analysis (EDA)
     - Data cleaning and preprocessing
     - Feature engineering and selection
-    - Training and comparing multiple machine learning models (e.g., Logistic Regression, SVM, Random Forest)
+    - Training and comparing multiple machine learning models using Stacking approches
     - Evaluating the final model's performance.
 - **`WDBC_Processed.csv`:** A cleaned version of the dataset, ready for modeling.
 
