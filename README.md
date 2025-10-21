@@ -121,4 +121,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## S Contact
 
-JOEOFFME - [LinkedIn](https://www.linkedin.com/in/joel-offome/) Project Link: [https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare](https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare)
+JOEOFFME - [LinkedIn](https://www.linkedin.com/in/youssef-dihaji-8458b0310/overlay/about-this-profile/) Project Link: [https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare](https://github.com/JOEOFFME/Multi-Modal-Artificial-Intelligence-in-Healthcare)
